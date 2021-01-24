@@ -12,7 +12,7 @@ int main() {
             cout << "Happy Anniversary, many wishes."<<endl;
             break;
         default:
-            cout << "Enter the correct choice!" <<endl;
+            cout << "Please! enter the correct choice!" <<endl;
     }
     return 0;
 }
