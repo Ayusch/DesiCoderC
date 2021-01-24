@@ -1,0 +1,3 @@
+/Users/ayusch/Desktop/Work/C++/Tutorial 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ayusch/Desktop/Work/C++/Tutorial 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ayusch/Desktop/Work/C++/Tutorial 1/cmake-build-debug/CMakeFiles/Tutorial_1.dir
